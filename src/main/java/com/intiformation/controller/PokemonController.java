@@ -22,6 +22,7 @@ import com.intiformation.service.PokemonService;
 public class PokemonController {
 	
 	// Un commentaire histoire de faire une modif
+	// Un dexieme commentaire rajouté par un autre contributeur
 	
 	@Autowired
 	PokemonService pokemonService;
